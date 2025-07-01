@@ -1,5 +1,3 @@
-Certainly! Here’s a revised README for your Coffee Machine Simulator **without** the resource requirements table or section:
-
 # Coffee Machine Simulator
 
 Welcome to the **Coffee Machine Simulator**! This Python program simulates a coffee machine that serves espresso, latte, and cappuccino. It manages payments, prepares drinks, and tracks profits, all through a user-friendly command-line interface.
